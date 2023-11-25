@@ -11,9 +11,11 @@ This project calculates the frequency of characters in a given text.
 
 ## Input
 
-Enter any text using Latin letters in the console when prompted. after entering the text, press enter. The page will display the frequency of the meeting of characters.
+Enter any text using Latin letters in the console when prompted. after entering the text, press enter.  The page will display the frequency of the meeting of characters.  
 
-The text you entered will be printed to the FileTask file.txt which is at the root of the project
+The text you entered will be printed to the File Task file.txt which is at the root of the project 
+
+Re-enter other characters into the console and reload the page. You will get a new corresponding result, and the new text will be written to the file
 
 ## Output
 
